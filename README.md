@@ -1,4 +1,4 @@
-# SQL-DATAWARHOUSE-PROJECT
+# SQL-DATAWAREHOUSE-PROJECT
 Sales Analytics Data Pipeline | SQL Server | Medallion Architecture
 
 This project implements a complete data engineering pipeline using SQL Server following the Medallion Architecture (Bronze → Silver → Gold). The objective is to transform raw CSV data into structured, business -ready analytical models for real-world reporting needs.
